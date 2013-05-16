@@ -22,17 +22,17 @@
 		"MIT"
 	],
 	"require" : {
-		"symfony/twig-bridge" : "dev-master",
-		"symfony/security-bundle" : "dev-master",
-		"symfony/form" : "dev-master",
+		"symfony/twig-bridge" : "2.3.x",
+		"symfony/security-bundle" : "2.3.x",
+		"symfony/form" : "2.3.x",
 		"knplabs/knp-menu-bundle" : "master",
-		"symfony/console" : "dev-master",
+		"symfony/console" : "2.3.x",
 		"sonata-project/exporter" : "1.*",
-		"symfony/config" : "dev-master",
+		"symfony/config" : "2.3.x",
 		"twig/twig" : ">=1.12,<2.0-dev",
-		"symfony/routing" : "dev-master",
-		"symfony/validator" : "dev-master",
-		"symfony/http-foundation" : "dev-master",
+		"symfony/routing" : "2.3.x",
+		"symfony/validator" : "2.3.x",
+		"symfony/http-foundation" : "2.3.x",
 		"sonata-project/jquery-bundle" : "1.8.*",
 		"doctrine/common" : ">=2.2,<3.0",
 		"sonata-project/block-bundle" : ">=2.2.1,<3.0"
@@ -49,7 +49,7 @@
 	"target-dir" : "Sonata/AdminBundle",
 	"extra" : {
 		"branch-alias" : {
-			"dev-master" : "2.3-dev"
+			"dev-master" : "dev-2.3"
 		}
 	},
 	"suggest" : {
